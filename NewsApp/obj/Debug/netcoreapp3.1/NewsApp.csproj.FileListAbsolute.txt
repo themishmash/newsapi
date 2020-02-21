@@ -1,0 +1,15 @@
+/Users/michelle.wong/Projects/NewsApp/NewsApp/bin/Debug/netcoreapp3.1/NewsApp
+/Users/michelle.wong/Projects/NewsApp/NewsApp/bin/Debug/netcoreapp3.1/NewsApp.deps.json
+/Users/michelle.wong/Projects/NewsApp/NewsApp/bin/Debug/netcoreapp3.1/NewsApp.runtimeconfig.json
+/Users/michelle.wong/Projects/NewsApp/NewsApp/bin/Debug/netcoreapp3.1/NewsApp.runtimeconfig.dev.json
+/Users/michelle.wong/Projects/NewsApp/NewsApp/bin/Debug/netcoreapp3.1/NewsApp.dll
+/Users/michelle.wong/Projects/NewsApp/NewsApp/bin/Debug/netcoreapp3.1/NewsApp.pdb
+/Users/michelle.wong/Projects/NewsApp/NewsApp/bin/Debug/netcoreapp3.1/NewsAPI.dll
+/Users/michelle.wong/Projects/NewsApp/NewsApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/michelle.wong/Projects/NewsApp/NewsApp/obj/Debug/netcoreapp3.1/NewsApp.csprojAssemblyReference.cache
+/Users/michelle.wong/Projects/NewsApp/NewsApp/obj/Debug/netcoreapp3.1/NewsApp.AssemblyInfoInputs.cache
+/Users/michelle.wong/Projects/NewsApp/NewsApp/obj/Debug/netcoreapp3.1/NewsApp.AssemblyInfo.cs
+/Users/michelle.wong/Projects/NewsApp/NewsApp/obj/Debug/netcoreapp3.1/NewsApp.csproj.CopyComplete
+/Users/michelle.wong/Projects/NewsApp/NewsApp/obj/Debug/netcoreapp3.1/NewsApp.dll
+/Users/michelle.wong/Projects/NewsApp/NewsApp/obj/Debug/netcoreapp3.1/NewsApp.pdb
+/Users/michelle.wong/Projects/NewsApp/NewsApp/bin/Debug/netcoreapp3.1/Figgle.dll
